@@ -7,7 +7,7 @@ Implements SW-UCB, D-UCB, and Thompson Sampling on a custom dynamic dataset to e
 ## Authors
 
 - [@SumitTeli](https://www.github.com/SumitTeli)
-- [@SumitTeli](https://www.github.com/SumitTeli)
+- [@JugalPatel](https://www.github.com/Jugalpatel3981)
 ## Documentation
 
 [Documentation](https://sumitteli.me/)
