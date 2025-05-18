@@ -10,7 +10,7 @@ Implements SW-UCB, D-UCB, and Thompson Sampling on a custom dynamic dataset to e
 - [@JugalPatel](https://www.github.com/Jugalpatel3981)
 ## Documentation
 
-[Documentation](https://sumitteli.me/)
+[Documentation](https://sumitteli.me/Pattern%20Project/Contextual%20Bandit%20With%20Dynamic%20Environment%20Report.pdf)
 ## Run Locally
 
 Clone the project
